@@ -8,3 +8,4 @@ streamlit.text('🐔 Hard-Boiled Free-Rnge Egg')
 streamlit.text('🥑🍞 Avacado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.header('\N{flexed biceps} Breakfast of Champion Coders \N{flexed biceps}')
